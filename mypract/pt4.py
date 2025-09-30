@@ -1,0 +1,13 @@
+#name = input("Введите ваше имя")
+#print("Привет,", name)
+#age = input ("Ариф  сколько тебе лет?: ")
+#print()
+
+#number = float(input("Введите первое число:"))
+#print("Первое число", number)
+#number2 = float(input("Введите второе число:"))
+#print("Операции над числами")
+#rint("Сложение", number + number2)
+#print("Вычитание", number - number2)
+#print("Умножение", number * number2)
+#print("Деление", number / number2)
